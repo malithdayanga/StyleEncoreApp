@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="testClr1">#4B0591</color>
+    <color name="testClr2" />
+    <color name="test2clr">#8910B6</color>
+    <color name="header2">#8012D8</color>
+    <color name="nnnnnnnnn">#11B2E7</color>
+</resources>

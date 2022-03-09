@@ -1,0 +1,3 @@
+# StyleEncoreApp
+app final
+
